@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-007396.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-007396.svg?&style=for-the-badge&logo=JPA&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=nginx&logoColor=white"/>
