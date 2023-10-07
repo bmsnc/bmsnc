@@ -51,7 +51,7 @@
 |:--:|:--:|:--:|:--:|:--:|
 |[I-DEV-U](https://github.com/bmsnc/I-DEV-U)|5명|2023.07.10 ~ 2023.08.18|개발자 커뮤니티 및 소개팅 웹사이트|BE / INFRA|
 |[Just a Moment](https://github.com/bmsnc/EnjoyTrip)|2명|2023.05.17 ~ 2023.05.26|세계여행 플래너 웹사이트|BE / FE|
-|[Deliverymoa](https://github.com/bmsnc/deliverymoa)|3명|2022.09 ~ 2023.11|기숙사 학생들을 위한 공동배달 커뮤니티|BE|
+|[Deliverymoa](https://github.com/bmsnc/deliverymoa)|3명|2022.09 ~ 2022.11|기숙사 학생들을 위한 공동배달 커뮤니티|BE|
   
 ## 🏙Oranization  
 |Name|Position|Period|
