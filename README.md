@@ -59,7 +59,7 @@
 |Name|Position|Period|
 |:--:|:--:|:--:|
 |Incheon National University|Student|2017.03 ~ 2023.02|
-|SSAFY|9th|2023.01 ~ ing|
+|SSAFY|9th|2023.01 ~ 2023.12|
   
 ## 🏅Certificate & Awards
 |Name|Institution|Date|
