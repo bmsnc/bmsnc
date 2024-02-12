@@ -2,11 +2,6 @@
 
 # CHOI BEOM SEON
 
-## 📊 My Stats
-  
-![Meoldae's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmsnc&show_icons=true&theme=github_dark_dimmed&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmsnc&layout=compact&theme=merko)
- 
 ## ✅Problem Solving
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=201701713)](https://solved.ac/201701713)
