@@ -53,15 +53,15 @@
 ## 🏙Oranization  
 |Name|Position|Period|
 |:--:|:--:|:--:|
-|Incheon National University|Student|2017.03 ~ 2023.02|
 |SSAFY|9th|2023.01 ~ 2023.12|
+|Incheon National University|Student|2017.03 ~ 2023.02|
   
 ## 🏅Certificate & Awards
 |Name|Institution|Date|
 |:--:|:--:|:--:|
-|SQL Developer|한국 데이터 산업 진흥원|2022.04.08|
+|ADsP|한국 데이터 산업 진흥원|2024.06.07|
 |정보처리기사|한국 산업 인력공단|2022.06.17|
-
+|SQL Developer|한국 데이터 산업 진흥원|2022.04.08|
 
 
 ## 📬Contact Me
